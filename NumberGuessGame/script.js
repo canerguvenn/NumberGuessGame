@@ -40,7 +40,7 @@ tryBtn.addEventListener('click', (e) => {
       tryBtn.style.display = 'none'
       
   }
-    hi.textContent= 'You need to try higher number'
+    hint.textContent= 'You need to try higher number'
     input.value= ''
 
   }else{
